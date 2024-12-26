@@ -7,3 +7,8 @@ else
     print(false)
 end
 
+--[[
+This was made in CraftOS-PC emulator lua. Not vanilla. Please use that when executing
+OR
+Replace 'local choice = string.lower(read())' with 'local choice = string.lower(io.read())
+--]]
